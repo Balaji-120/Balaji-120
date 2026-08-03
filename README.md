@@ -3,7 +3,7 @@
 **Data Analyst** | M.Sc. Data Science & Analytics | Turning raw data into business insights
 
 📍 Bangalore, Karnataka, India
-📧 gbalajinaidu202@gmail.com
+📧 gbalajinaidu120@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/balaji-naidu-data-analyst)
 
 ---
