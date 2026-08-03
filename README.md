@@ -1,156 +1,76 @@
-# Hi 👋, I'm Guriginjakunta Balaji Naidu
+# Hi, I'm Gurigin Jakunta Balaji Naidu 👋
 
-## Data Analyst | Python | SQL | Power BI | MySQL | Excel
+**Data Analyst** | M.Sc. Data Science & Analytics | Turning raw data into business insights
 
-I'm an aspiring **Data Analyst** with a Master's in **Data Science & Analytics** from Garden City University. I enjoy transforming raw data into meaningful insights using Python, SQL, Power BI, and Excel.
-
-I have hands-on experience building end-to-end data analytics projects, performing exploratory data analysis (EDA), creating interactive dashboards, and writing SQL queries to solve business problems.
+📍 Bangalore, Karnataka, India
+📧 gbalajinaidu202@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/balaji-naidu-data-analyst)
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- 🎓 M.Sc. in Data Science & Analytics
-- 📊 Passionate about Data Analytics & Business Intelligence
-- 🐍 Strong in Python, SQL, MySQL, Power BI & Excel
-- 📈 Interested in Data Visualization, KPI Reporting & Dashboard Development
-- 🌱 Currently learning Advanced Python, Streamlit, and Machine Learning
-- 💼 Looking for Entry-Level Data Analyst opportunities
+Data Analyst with an M.Sc. in Data Science & Analytics and hands-on project experience turning raw transactional data into business insights. Proficient in **Python, MySQL, Power BI, and Excel**, with a track record of building dashboards that track revenue, customer behaviour, and sales KPIs. Looking to bring data-driven problem-solving to an entry-level Data Analyst role.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming
-- Python
-- Pandas
-- NumPy
-
-### Database
-- MySQL
-- SQL
-- Joins
-- CTEs
-- Window Functions
-- Stored Procedures
-- Triggers
-
-### Data Visualization
-- Power BI
-- Power Query
-- DAX
-- Dashboard Development
-- Advanced Excel
-- Pivot Tables
-- Charts
-
-### Data Analytics
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- KPI Reporting
-- Statistical Analysis
-- Business Intelligence
-
-### Tools
-- Git
-- GitHub
-- Jupyter Notebook
-- VS Code
+**Programming:** Python (Pandas, NumPy)
+**Database:** MySQL (Joins, CTEs, Window Functions, Stored Procedures, Triggers, Data Cleaning)
+**Visualization / BI:** Power BI (Power Query, DAX, Data Modelling, Dashboard Development), Advanced Excel (Pivot Tables, VLOOKUP, XLOOKUP, Charts)
+**Core Competencies:** Data Cleaning, Exploratory Data Analysis (EDA), KPI Reporting, Business Intelligence, Statistical Analysis
 
 ---
 
-# 📂 Featured Projects
+## 📊 Featured Projects
 
-## 📊 Sales Analysis Dashboard
+### 🔹 [Sales Analysis Dashboard](#)
+`Python` `MySQL` `Power BI`
 
-**Tools:** Python, MySQL, Power BI
+- Performed EDA on transactional sales data to identify purchasing patterns, customer segments, and repeat-buying behaviour
+- Cleaned and transformed data using Python (Pandas) and SQL
+- Built a Power BI dashboard tracking 4 KPIs: **Revenue, CLV, AOV, and Repeat Purchase Rate**
+- Analysed product category and seasonal trends by integrating MySQL with Power BI for streamlined, repeatable reporting
 
-### Highlights
+### 🔹 [IPL Analysis Dashboard](#)
+`Excel` `Pivot Tables` `Slicers`
 
-- Performed exploratory data analysis on transactional sales data
-- Cleaned and transformed datasets using Python and SQL
-- Built interactive Power BI dashboards
-- Tracked KPIs including Revenue, Customer Lifetime Value (CLV), Average Order Value (AOV), and Repeat Purchase Rate
-- Integrated MySQL with Power BI for streamlined reporting
+- Developed an interactive IPL Dashboard using Pivot Tables, Pivot Charts, Slicers, and KPIs for season-wise performance analysis
+- Analysed season-wise team, player, venue, and match statistics to identify performance trends
+- Automated data summaries and visual reports using Excel formulas (XLOOKUP, IF, COUNTIFS, SUMIFS) to improve reporting efficiency
 
----
-
-## 🏏 IPL Analysis Dashboard
-
-**Tools:** Excel
-
-### Highlights
-
-- Built an interactive IPL dashboard
-- Used Pivot Tables, Pivot Charts and Slicers
-- Analyzed season-wise team and player performance
-- Created automated reports using Excel formulas
+> 💡 Replace the `(#)` links above with your actual GitHub repo URLs once uploaded.
 
 ---
 
-## 💼 Internship
+## 💼 Experience
 
-### Data Analyst Intern
-**Magic Bus India Foundation**
-
-- Worked with SQL, Python, Power BI and Excel
-- Performed Data Cleaning and Data Analysis
-- Built dashboards and analytical reports
-- Improved analytical and workplace communication skills
+**Internship Trainee — Magic Bus India Foundation** | *Jan 2025 – Apr 2025*
+- Completed hands-on training in SQL, Python, and Power BI
+- Performed data cleaning and analysis on sample datasets
+- Built dashboards and analytical reports as part of training assignments
+- Developed communication, problem-solving, and workplace-readiness skills through a mentorship-driven program
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
-### M.Sc. Data Science & Analytics
-
-Garden City University
-
-CGPA: **9.5**
-
-### B.Sc. Computer Science
-
-BSR Degree College
-
-CGPA: **8.2**
+- **M.Sc. in Data Science & Analytics** — Garden City University (2023–2025) | CGPA: 9.5
+- **B.Sc. in Computer Science** — BSR Degree College (2020–2023) | CGPA: 8.2
 
 ---
 
-# 📜 Certifications
+## 📜 Certifications
 
-- Python Programming – Coursera
-- Introduction to R Programming for Data Science – Coursera
-- SQL & MySQL – IBM SkillsBuild
-- Data Analytics – Simplilearn SkillUP
-- Data Analytics – Besant Technologies
-
----
-
-# 📈 Current Learning
-
-- Streamlit
-- Machine Learning
-- Statistics for Data Analytics
-- Git & GitHub
-- Advanced SQL
-- Power BI
+- Python Programming — Coursera
+- Introduction to R Programming for Data Science — Coursera
+- SQL & MySQL — IBM Skills Build
+- Data Analytics — Besant Technologies, Bangalore
 
 ---
 
-# 📫 Connect with Me
+## 📫 Let's Connect
 
-📧 Email: gbalajinaidu202@gmail.com
-
-💼 LinkedIn: [Balaji Naidu](https://www.linkedin.com/in/balaji-naidu-data-analyst/)
-
-🐙 GitHub: [Balaji-120](https://github.com/Balaji-120)
-
----
-
-# 💡 Career Objective
-
-Seeking an opportunity as a **Data Analyst** where I can apply my analytical, technical, and problem-solving skills to help organizations make data-driven decisions while continuously learning and growing.
-
----
-
-⭐ Feel free to explore my repositories and connect with me.
+Open to entry-level **Data Analyst / Business Analyst** opportunities.
+Reach out via [LinkedIn](https://linkedin.com/in/balaji-naidu-data-analyst) or email me at **gbalajinaidu202@gmail.com**
