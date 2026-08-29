@@ -88,8 +88,7 @@ Analyzed customer shopping behavior using Python, MySQL, Excel and Power BI to i
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/69109482/173346777-1890a849-1570-49aa-bde2-23ecc90cc064.png" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-120&layout=compact&theme=nord&border_color=0969DA&title_color=0969DA&text_color=c9d1d9" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Balaji-120&show_icons=true&theme=nord&border_color=0969DA&title_color=0969DA&icon_color=0969DA&text_color=c9d1d9" alt="Top Languages" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=Balaji-120&theme=nord&border=0969DA&ring=0969DA&fire=0969DA&currStreakLabel=0969DA" alt="GitHub Streak"/>
 
