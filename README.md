@@ -97,21 +97,9 @@ Analyzed customer shopping behavior using Python, MySQL, Excel and Power BI to i
 
 <br/>
 
-## 🏆 Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Balaji-120&theme=nord&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
-</div>
 
-<br/>
 
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Balaji-120&theme=nord&color=0969DA&line=0969DA&point=ffffff" alt="Activity Graph"/>
-</div>
-
-<br/>
 
 ## 🔗 Connect With Me
 
@@ -123,4 +111,4 @@ Analyzed customer shopping behavior using Python, MySQL, Excel and Power BI to i
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969DA,100:7dd3fc&height=120&section=footer" width="100%"/>
-#'Update profile README'
+
