@@ -1,76 +1,61 @@
-# Hi, I'm Gurigin Jakunta Balaji Naidu 👋
+# 👋 Hi, I'm Balaji Naidu
 
-**Data Analyst** | M.Sc. Data Science & Analytics | Turning raw data into business insights
+### 📊 Data Analyst | SQL | Excel | Power BI | Python
 
-📍 Bangalore, Karnataka, India
-📧 gbalajinaidu120@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/balaji-naidu-data-analyst)
+I'm an aspiring **Data Analyst** with an M.Sc. in Data Science & Analytics and hands-on experience in **SQL, Excel, Power BI, and Python**.
 
----
+I enjoy working with data to clean, analyze, visualize, and transform raw information into meaningful **business insights and actionable reports**.
 
-## 🧑‍💻 About Me
+### 🛠️ Technical Skills
 
-Data Analyst with an M.Sc. in Data Science & Analytics and hands-on project experience turning raw transactional data into business insights. Proficient in **Python, MySQL, Power BI, and Excel**, with a track record of building dashboards that track revenue, customer behaviour, and sales KPIs. Looking to bring data-driven problem-solving to an entry-level Data Analyst role.
+- **SQL:** MySQL, Joins, Subqueries, CTEs, Window Functions, Aggregations
+- **Excel:** Advanced Excel, Pivot Tables, VLOOKUP, Charts, Data Cleaning & Reporting
+- **Power BI:** Power Query, DAX, Data Modelling, Dashboard Development, KPI Reporting
+- **Python:** Pandas, NumPy, Matplotlib, Exploratory Data Analysis (EDA)
 
----
+### 💼 Experience
 
-## 🛠️ Technical Skills
+**Data Analyst Intern – Besant Technologies**
 
-**Programming:** Python (Pandas, NumPy)
-**Database:** MySQL (Joins, CTEs, Window Functions, Stored Procedures, Triggers, Data Cleaning)
-**Visualization / BI:** Power BI (Power Query, DAX, Data Modelling, Dashboard Development), Advanced Excel (Pivot Tables, VLOOKUP, XLOOKUP, Charts)
-**Core Competencies:** Data Cleaning, Exploratory Data Analysis (EDA), KPI Reporting, Business Intelligence, Statistical Analysis
+During my internship, I worked on:
+- Data cleaning and validation using Python, SQL, and Power BI
+- Exploratory Data Analysis to identify trends, patterns, and outliers
+- SQL queries using joins, aggregations, and subqueries
+- Power BI dashboards for KPI reporting and data visualization
+- Presenting analytical findings and business insights
 
----
+### 📈 Projects
 
-## 📊 Featured Projects
+🔹 **Pizza Sales Performance Dashboard**
+- Analyzed 48,000+ sales transactions using Excel and MySQL
+- Calculated key KPIs including Revenue, Orders, Pizzas Sold, and Average Order Value
+- Performed daily and monthly sales trend analysis
+- Built an interactive Power BI dashboard
 
-### 🔹 [Sales Analysis Dashboard](#)
-`Python` `MySQL` `Power BI`
+🔹 **Customer Shopping Behaviour Analysis**
+- Analyzed 3,900+ customer records using Python, MySQL, and Power BI
+- Cleaned and transformed data using Pandas
+- Used SQL CTEs, subqueries, and window functions for customer segmentation
+- Built an interactive Power BI dashboard for customer and category analysis
 
-- Performed EDA on transactional sales data to identify purchasing patterns, customer segments, and repeat-buying behaviour
-- Cleaned and transformed data using Python (Pandas) and SQL
-- Built a Power BI dashboard tracking 4 KPIs: **Revenue, CLV, AOV, and Repeat Purchase Rate**
-- Analysed product category and seasonal trends by integrating MySQL with Power BI for streamlined, repeatable reporting
+### 🎯 Currently
 
-### 🔹 [IPL Analysis Dashboard](#)
-`Excel` `Pivot Tables` `Slicers`
+I'm actively looking for **entry-level opportunities** in:
 
-- Developed an interactive IPL Dashboard using Pivot Tables, Pivot Charts, Slicers, and KPIs for season-wise performance analysis
-- Analysed season-wise team, player, venue, and match statistics to identify performance trends
-- Automated data summaries and visual reports using Excel formulas (XLOOKUP, IF, COUNTIFS, SUMIFS) to improve reporting efficiency
+- Data Analyst
+- Junior Data Analyst
+- Reporting Analyst
+- MIS Analyst
+- Business Analyst
+- Operations Analyst
+- BI Analyst
 
-> 💡 Replace the `(#)` links above with your actual GitHub repo URLs once uploaded.
+### 📫 Connect With Me
 
----
-
-## 💼 Experience
-
-**Internship Trainee — Magic Bus India Foundation** | *Jan 2025 – Apr 2025*
-- Completed hands-on training in SQL, Python, and Power BI
-- Performed data cleaning and analysis on sample datasets
-- Built dashboards and analytical reports as part of training assignments
-- Developed communication, problem-solving, and workplace-readiness skills through a mentorship-driven program
-
----
-
-## 🎓 Education
-
-- **M.Sc. in Data Science & Analytics** — Garden City University (2023–2025) | CGPA: 9.5
-- **B.Sc. in Computer Science** — BSR Degree College (2020–2023) | CGPA: 8.2
+- 💼 LinkedIn: [Balaji Naidu](https://www.linkedin.com/in/balaji-naidu)
+- 📧 Email: gbalajinaidu@gmail.com
+- 💻 GitHub: [Balaji-120](https://github.com/Balaji-120)
 
 ---
 
-## 📜 Certifications
-
-- Python Programming — Coursera
-- Introduction to R Programming for Data Science — Coursera
-- SQL & MySQL — IBM Skills Build
-- Data Analytics — Besant Technologies, Bangalore
-
----
-
-## 📫 Let's Connect
-
-Open to entry-level **Data Analyst / Business Analyst** opportunities.
-Reach out via [LinkedIn](https://linkedin.com/in/balaji-naidu-data-analyst) or email me at **gbalajinaidu202@gmail.com**
+⭐ Feel free to explore my repositories and projects!
