@@ -40,7 +40,7 @@ const balaji = {
 ### 🍕 Pizza Sales Analysis
 Analyzed pizza sales data using SQL and Power BI to identify sales trends, top products and key business KPIs.
 
-<img src=["https://github-readme-stats.vercel.app/api/pin/?username=Balaji-120&repo=Pizza_Sales_Analysis&theme=nord&border_color=0969DA&title_color=0969DA"](https://www.kaggle.com/code/joshualamothe/pizza-sales-report-power-bi-dashboard) alt="Pizza Sales Analysis"/>
+<img src=[["https://github-readme-stats.vercel.app/api/pin/?username=Balaji-120&repo=Pizza_Sales_Analysis&theme=nord&border_color=0969DA&title_color=0969DA"](https://www.kaggle.com/code/joshualamothe/pizza-sales-report-power-bi-dashboard) ](https://media.licdn.com/dms/image/v2/D5612AQHKbjDnZ0Na8A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1694736293921?e=2147483647&v=beta&t=tSPPttMIpd8HHiPhy-GFF2tWDaqW3cVq8WQZ9ykOP-A)alt="Pizza Sales Analysis"/>
 
 | Layer | Technology |
 |---|---|
