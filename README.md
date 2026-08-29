@@ -1,61 +1,126 @@
-# 👋 Hi, I'm Balaji Naidu
+<div align="center">
 
-### 📊 Data Analyst | SQL | Excel | Power BI | Python
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969DA,100:7dd3fc&height=200&section=header&text=Balaji%20Naidu&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20Fresher&descAlignY=55&descSize=18" width="100%"/>
 
-I'm an aspiring **Data Analyst** with an M.Sc. in Data Science & Analytics and hands-on experience in **SQL, Excel, Power BI, and Python**.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Data+Analyst+Fresher;SQL+%7C+MySQL+%7C+Power+BI+%7C+Excel+%7C+Python;Turning+Raw+Data+Into+Business+Insights" alt="Typing SVG" />
+</a>
 
-I enjoy working with data to clean, analyze, visualize, and transform raw information into meaningful **business insights and actionable reports**.
+<br/>
 
-### 🛠️ Technical Skills
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-0969DA?style=for-the-badge&logo=briefcase&logoColor=white)
 
-- **SQL:** MySQL, Joins, Subqueries, CTEs, Window Functions, Aggregations
-- **Excel:** Advanced Excel, Pivot Tables, VLOOKUP, Charts, Data Cleaning & Reporting
-- **Power BI:** Power Query, DAX, Data Modelling, Dashboard Development, KPI Reporting
-- **Python:** Pandas, NumPy, Matplotlib, Exploratory Data Analysis (EDA)
+<img src="https://komarev.com/ghpvc/?username=Balaji-120&color=0969DA&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Balaji-120?label=Followers&style=flat-square&color=0969DA" alt="Followers"/>
 
-### 💼 Experience
+</div>
 
-**Data Analyst Intern – Besant Technologies**
+<br/>
 
-During my internship, I worked on:
-- Data cleaning and validation using Python, SQL, and Power BI
-- Exploratory Data Analysis to identify trends, patterns, and outliers
-- SQL queries using joins, aggregations, and subqueries
-- Power BI dashboards for KPI reporting and data visualization
-- Presenting analytical findings and business insights
+## 👤 Who I Am
 
-### 📈 Projects
+```typescript
+const balaji = {
+  title: "Data Analyst Fresher",
+  stack: ["SQL", "MySQL", "Power BI", "Excel", "Python"],
+  launchedProjects: [
+    "Pizza Sales Analysis",
+    "Customer Shopping Behavior Analysis"
+  ],
+  certifications: [],
+  status: "Actively building data analytics projects 📊",
+  openTo: "Data Analyst / Business Analyst roles"
+};
+```
 
-🔹 **Pizza Sales Performance Dashboard**
-- Analyzed 48,000+ sales transactions using Excel and MySQL
-- Calculated key KPIs including Revenue, Orders, Pizzas Sold, and Average Order Value
-- Performed daily and monthly sales trend analysis
-- Built an interactive Power BI dashboard
+<br/>
 
-🔹 **Customer Shopping Behaviour Analysis**
-- Analyzed 3,900+ customer records using Python, MySQL, and Power BI
-- Cleaned and transformed data using Pandas
-- Used SQL CTEs, subqueries, and window functions for customer segmentation
-- Built an interactive Power BI dashboard for customer and category analysis
+## 🚀 Featured Projects
 
-### 🎯 Currently
+### 🍕 Pizza Sales Analysis
+Analyzed pizza sales data using SQL and Power BI to identify sales trends, top products and key business KPIs.
 
-I'm actively looking for **entry-level opportunities** in:
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Balaji-120&repo=Pizza_Sales_Analysis&theme=nord&border_color=0969DA&title_color=0969DA" alt="Pizza Sales Analysis"/>
 
-- Data Analyst
-- Junior Data Analyst
-- Reporting Analyst
-- MIS Analyst
-- Business Analyst
-- Operations Analyst
-- BI Analyst
+| Layer | Technology |
+|---|---|
+| Database | MySQL |
+| Query & Analysis | SQL |
+| Visualization | Power BI |
 
-### 📫 Connect With Me
+🔗 [Code](https://github.com/Balaji-120/Pizza_Sales_Analysis.git)
 
-- 💼 LinkedIn: [Balaji Naidu](https://www.linkedin.com/in/balaji-naidu)
-- 📧 Email: gbalajinaidu@gmail.com
-- 💻 GitHub: [Balaji-120](https://github.com/Balaji-120)
+<br/>
 
----
+### 🛍️ Customer Shopping Behavior Analysis
+Analyzed customer shopping behavior using Python, MySQL, Excel and Power BI to identify purchasing trends and business insights.
 
-⭐ Feel free to explore my repositories and projects!
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Balaji-120&repo=Customer-Shopping-Behaviour&theme=nord&border_color=0969DA&title_color=0969DA" alt="Customer Shopping Behavior Analysis"/>
+
+| Layer | Technology |
+|---|---|
+| Data Cleaning & Analysis | Python |
+| Database | MySQL |
+| Reporting | Excel |
+| Visualization | Power BI |
+
+🔗 [Code](https://github.com/Balaji-120/Customer-Shopping-Behaviour.git)
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Skills](https://skillicons.dev/icons?i=python,mysql)
+
+**Data & Reporting**
+
+![Skills](https://skillicons.dev/icons?i=powerbi)
+
+**Dev Tools**
+
+![Skills](https://skillicons.dev/icons?i=git,github,vscode)
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Balaji-120&show_icons=true&theme=nord&border_color=0969DA&title_color=0969DA&icon_color=0969DA&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-120&layout=compact&theme=nord&border_color=0969DA&title_color=0969DA&text_color=c9d1d9" alt="Top Languages" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=Balaji-120&theme=nord&border=0969DA&ring=0969DA&fire=0969DA&currStreakLabel=0969DA" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Balaji-120&theme=nord&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+</div>
+
+<br/>
+
+## 📈 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Balaji-120&theme=nord&color=0969DA&line=0969DA&point=ffffff" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balaji-naidu-data-analyst)
+[![Gmail](https://img.shields.io/badge/Email-0969DA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gbalajinaidu202@gmail.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969DA,100:7dd3fc&height=120&section=footer" width="100%"/>
+#'Update profile README'
