@@ -55,7 +55,7 @@ Analyzed pizza sales data using SQL and Power BI to identify sales trends, top p
 ### 🛍️ Customer Shopping Behavior Analysis
 Analyzed customer shopping behavior using Python, MySQL, Excel and Power BI to identify purchasing trends and business insights.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Balaji-120&repo=Customer-Shopping-Behaviour&theme=nord&border_color=0969DA&title_color=0969DA" alt="Customer Shopping Behavior Analysis"/>
+<img src="https://framerusercontent.com/images/lCuoeN3d8RsKK41yEX7FZ5lyDo.jpg?width=2000&height=2000" alt="Customer Shopping Behavior Analysis"/>
 
 | Layer | Technology |
 |---|---|
